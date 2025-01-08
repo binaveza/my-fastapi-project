@@ -23,13 +23,13 @@ cd <папка_сервисов>
 #### Для TODO-сервиса:
 
 ```bash
-cd todo-service
+cd todo_app
 pip install -r requirements.txt
 ```
 
 #### Для Short URL-сервиса:
 ```bash
-cd short-url-service
+cd shorturl_app
 pip install -r requirements.txt
 ```
 ### Шаг 3: Запуск сервисов
@@ -37,13 +37,13 @@ pip install -r requirements.txt
 #### Для TODO-сервиса:
 
 ```bash
-cd todo-service
+cd todo_app
 uvicorn main:app --reload
 ```
 
 #### Для Short URL-сервиса:
 ```bash
-cd short-url-service
+cd shorturl_app
 uvicorn main:app --reload
 ```
 Теперь оба сервиса будут доступны по следующим адресам:
