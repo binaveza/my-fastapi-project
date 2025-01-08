@@ -51,6 +51,3 @@ uvicorn main:app --reload
 - **TODO-сервис**: http://localhost:8000/
 - **Short URL-сервис**: http://localhost:8001/
 
-## Запуск сервисов через Docker
-
-__В разработке__
