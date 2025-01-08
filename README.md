@@ -12,7 +12,7 @@
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone https://github.com/<ваш_репозиторий>.git
+git clone https://github.com//binaveza/my-fastapi-project.git
 cd <папка_сервисов>
 ```
 
